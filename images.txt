@@ -1,3 +1,4 @@
+pytorch/pytorch:2.5.1-cuda11.8-cudnn9-devel
 pytorch/pytorch:2.5.1-cuda12.4-cudnn9-devel
 nginx
 #支持私库
